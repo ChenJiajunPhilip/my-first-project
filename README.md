@@ -27,7 +27,7 @@ Eisntein says:
   <dd>The rate of change of displacement.</dd>
   <dt>acceleration</dt>
   <dd>The rate of change of velocty. </dd>
-  <dd>The second derivative of displacement. </dd>
+  <dd>The second time derivative of displacement. </dd>
 </dl>
 
 y = $\lceil ceil \rceil$ can be represented by the following graph: <br>
